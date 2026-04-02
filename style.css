@@ -130,3 +130,7 @@ footer {
 .language-switch a:hover {
     color: #188cd3;        
 }
+@media screen and (orientation: landscape) {
+    h1 { font-size: 48px; }
+    .menu { flex-direction: row; gap: 40px; }
+}
