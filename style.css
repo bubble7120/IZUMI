@@ -83,15 +83,15 @@ header {
     margin-top: 30px;
     display: flex;
     justify-content: center;
-    gap: 100px;
+    gap: 120px;
 }
 
 .menu a {
-    font-size: 30px; 
+    font-size: 20px; 
     color: #f5deb3;
     text-decoration: none;
     cursor: pointer;
-    padding: 20px 20px;
+    padding: 15px 15px;
     border: 5px solid #f5deb3;
     border-radius: 22px;
     background-color: rgba(50, 50, 50, 0.8);
